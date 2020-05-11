@@ -2,7 +2,6 @@
 
 block_cipher = None
 
-
 a = Analysis(['main.py'],
              pathex=[],
              binaries=[],
@@ -24,7 +23,7 @@ exe = EXE(pyz,
           [],
           exclude_binaries=True,
           name='notesmanager',
-          debug=False,
+          debug=True,
           bootloader_ignore_signals=False,
           strip=False,
           upx=True,
