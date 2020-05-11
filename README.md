@@ -18,7 +18,8 @@
 👤 **Armen Matevosyan**
 
 * Github: [@aamatevosyan](https://github.com/aamatevosyan)
-* LinkedIn: [@newapple4g](https://linkedin.com/in/newapple4g)
+* LinkedIn: [@aamatevosyan](https://linkedin.com/in/aamatevosyan)
+* Telegram: [@armenm98](https://t.me/armenm98)
 
 ## 🤝 Contributing
 
